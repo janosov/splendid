@@ -1,4 +1,10 @@
 ---
 label: post1
 hide_body: false
-fields: []
+fields:
+- name: srdtfgyhujk
+  type: text
+  config:
+    required: false
+  label: srdtfgyhujk
+  description: sdfghj
